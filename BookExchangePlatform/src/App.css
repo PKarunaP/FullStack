@@ -1,0 +1,21 @@
+.loginTop {
+  top: 200px;
+}
+
+.active{
+  color:#6610f2 !important;
+  font-weight: bold !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color:#6610f2 !important;
+}
+
+.text-color{
+  color:#6610f2 !important;
+  font-size: 20px;
+}
+
+.btn-width{
+  width:70px
+}
